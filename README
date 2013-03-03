@@ -1,0 +1,18 @@
+Well. This is an experiment of Genetic Algorithm.
+In this experiment, you can evolve an image of
+100*100 pixels.
+This experiment is achieved with Qt.
+
+You can find it is easy to use it:
+1.Click "Open" button to choose an image(100*
+100 pixels).
+2.Click "Begin" button to begin.
+
+Compile:
+Qt Version is 4.8.4, Fedora 18, kernel 3.8.0
+After Changing to this directory:
+1.qmake-qt4 -project
+2.qmake-qt4
+3.make
+
+Then you can run the binary file in this directory.
